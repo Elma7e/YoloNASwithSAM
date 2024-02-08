@@ -6,7 +6,7 @@
 
 
 This project demonstrates how to perform object detection and image segmentation using YOLO-NAS for object detection and SAM for image segmentation. YOLO-NAS developed by DeciAi is a state-of-the-art object detection model optimized for both accuracy and low-latency inference. SAM, on the other hand, is a powerful segmentation model developed by Meta AI. This project was made in Google Colab and using the CPU.
-*Note: It will be much faster if you run this with by running Google Colab by changing the runtime type*
+*Note: It will be much faster if you run this with by running Google Colab by changing the Runtime -> Hardware accelerator: T4 GPU**
 
 
 ## Technologies Used
